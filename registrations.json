@@ -1,0 +1,38 @@
+[
+  {
+    "id": "reg-101",
+    "studentName": "Ananya Sharma",
+    "parentName": "Rajesh Sharma",
+    "age": "14",
+    "gender": "Female",
+    "phone": "+91 98450 12345",
+    "email": "ananya.sharma@example.com",
+    "city": "Bengaluru",
+    "preferredClass": "Beginner Classes",
+    "experienceLevel": "Beginner",
+    "preferredMode": "Online",
+    "preferredDays": "Weekends",
+    "preferredTime": "Morning (9 AM - 12 PM)",
+    "trainingDetails": "Learned basic swaras at school 2 years ago.",
+    "message": "Eager to start formal training in classical music.",
+    "createdAt": "2026-10-03T09:35:36.706Z"
+  },
+  {
+    "id": "reg-102",
+    "studentName": "Karthik Venkatesh",
+    "parentName": "N/A",
+    "age": "28",
+    "gender": "Male",
+    "phone": "+91 99001 88776",
+    "email": "karthik.v@example.com",
+    "city": "Bengaluru",
+    "preferredClass": "Intermediate Classes",
+    "experienceLevel": "Intermediate",
+    "preferredMode": "Offline",
+    "preferredDays": "Weekdays",
+    "preferredTime": "Evening (5 PM - 8 PM)",
+    "trainingDetails": "4 years of vocal training in Carnatic music.",
+    "message": "Looking to refine raga elaboration and Sugama Sangeetha.",
+    "createdAt": "2026-10-04T09:35:36.708Z"
+  }
+]
